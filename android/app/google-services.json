@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "217748043526",
+    "project_id": "quick-for-car-release",
+    "storage_bucket": "quick-for-car-release.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217748043526:android:2bf7671ce4ca958365d087",
+        "android_client_info": {
+          "package_name": "com.quickfor.car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217748043526-jd3h9r09h61md4mdlosokj444adfiulf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickfor.car",
+            "certificate_hash": "ef0d027dc59cf09c904cf7e84f52dcc20ac3b8bb"
+          }
+        },
+        {
+          "client_id": "217748043526-vq92559bjva676e2l89psvkf8jqudl8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWyyXVCdgkYyS5GpeVqNhFtqBOvH3NSk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217748043526-vq92559bjva676e2l89psvkf8jqudl8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
